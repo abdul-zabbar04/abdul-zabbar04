@@ -1,14 +1,14 @@
 ## Hi there 👋
 - 🔭 I’m currently working on building scalable backend systems for web applications
 - 🌱 I’m currently learning react.js for frontend
-- 👯 I’m looking to collaborate on open-source projects or any backend-heavy applications where I can contribute my Django and Python skills.
+- 👯 I’m looking to collaborate on any backend-heavy applications where I can contribute my Django and Python skills.
 - 🤔 I’m looking for help with advanced algorithms and Data Structure to further improve my problem-solving abilities
 - 💬 Ask me about anything related to backend development, Django, Python, or best practices for building scalable web applications.
-- 📫 How to reach me: You can reach me via email at a4zabbar@gmail.com or find me on LinkedIn at [LinkedIn Profile](https://www.linkedin.com/in/md-abdul-zabbar-eee/)
+- 📫 How to reach me: You can reach me via email at a4zabbar@gmail.com or find me on LinkedIn at [LinkedIn](https://www.linkedin.com/in/md-abdul-zabbar-eee/)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I enjoy exploring and utilizing Python's built-in tools to solve problems efficiently. I'm always looking for ways to write cleaner, more optimized code and improve my coding skills!
 
-👨‍💻 About Me
+## 👨‍💻 About Me
 Hi, I am Md. Abdul Zabbar, a passionate backend web developer from Barishal, Bangladesh. I have a solid foundation in Python and Web Development, with hands-on experience in Django for building robust backends. I enjoy creating scalable and efficient web applications that offer seamless user experiences. I'm constantly learning new technologies, solving problems, and contributing to projects in the Healthcare and House Rent. I’m excited to connect with others in the tech community and explore new opportunities.
 
 ## 🌐 Socials:
