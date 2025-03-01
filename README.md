@@ -1,3 +1,4 @@
+![Banner Image](https://github.com/your-username/your-repository-name/raw/main/banner.png)
 ## Hi there 👋
 - 🔭 I’m currently working on building scalable backend systems for web applications
 - 🌱 I’m currently learning react.js for frontend
