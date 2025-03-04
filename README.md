@@ -1,5 +1,10 @@
 ![Banner Image](https://github.com/abdul-zabbar04/abdul-zabbar04/blob/main/banner.jpg)
-## Hi there 👋
+
+## 👨‍💻 About Me
+Hi, I am Md. Abdul Zabbar, a passionate backend web developer from Barishal, Bangladesh. I have a solid foundation in Python and Web Development, with hands-on experience in Django for building robust backends. I enjoy creating scalable and efficient web applications that offer seamless user experiences. I'm constantly learning new technologies, solving problems, and contributing to projects in Healthcare and House Rent domains.
+
+Currently, I am pursuing my Bachelor's degree in Electrical and Electronic Engineering (EEE) at Barishal Engineering College, Barishal, Bangladesh. I am in my third year, second semester, and I'm excited to connect with others in the tech community and explore new opportunities.
+
 - 🔭 I’m currently working on building scalable backend systems for web applications
 - 🌱 I’m currently learning react.js for frontend
 - 👯 I’m looking to collaborate on any backend-heavy applications where I can contribute my Django and Python skills.
@@ -8,11 +13,6 @@
 - 📫 How to reach me: You can reach me via email at a4zabbar@gmail.com or find me on LinkedIn at [LinkedIn](https://www.linkedin.com/in/md-abdul-zabbar-eee/)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I enjoy exploring and utilizing Python's built-in tools to solve problems efficiently. I'm always looking for ways to write cleaner, more optimized code and improve my coding skills!
-
-## 👨‍💻 About Me
-Hi, I am Md. Abdul Zabbar, a passionate backend web developer from Barishal, Bangladesh. I have a solid foundation in Python and Web Development, with hands-on experience in Django for building robust backends. I enjoy creating scalable and efficient web applications that offer seamless user experiences. I'm constantly learning new technologies, solving problems, and contributing to projects in Healthcare and House Rent domains.
-
-Currently, I am pursuing my Bachelor's degree in Electrical and Electronic Engineering (EEE) at Barishal Engineering College, Barishal, Bangladesh. I am in my third year, second semester, and I'm excited to connect with others in the tech community and explore new opportunities.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/md-abdul-zabbar-eee) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/zabbar365) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/abdul.zabbar.04)
