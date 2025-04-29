@@ -1,4 +1,4 @@
-![Banner Image](https://github.com/abdul-zabbar04/abdul-zabbar04/blob/main/banner.jpg)
+![Banner Image](https://github.com/abdul-zabbar04/abdul-zabbar04/blob/main/cover.jpeg)
 
 ## 👨‍💻 About Me
 Hi, I am Md. Abdul Zabbar, a passionate backend web developer from Barishal, Bangladesh. I have a solid foundation in Python and Web Development, with hands-on experience in Django for building robust backends. I enjoy creating scalable and efficient web applications that offer seamless user experiences. I'm constantly learning new technologies, solving problems, and contributing to projects in Healthcare and House Rent domains.
